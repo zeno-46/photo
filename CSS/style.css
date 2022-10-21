@@ -45,3 +45,21 @@ img {
 #mainvisual {
   margin-bottom: 60px;
 }
+
+#index {
+  background-color: #fff;
+  padding: 30px 0;
+  margin-bottom: 60px;
+}
+
+.index-list {
+  margin-left: 20px;
+}
+
+.index-list li {
+  margin-bottom: 20px;
+}
+
+.index-list li:last-child {
+  margin-bottom: 0;
+}
